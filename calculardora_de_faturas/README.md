@@ -1,13 +1,5 @@
-# TESTE DE FRONT-END
-O objetivo do desafio foi validar os seguintes tópicos:
-
-*JavaScript
-*React
-*TypeScript.
-*Componentização
-*CSS-JS.
-*Testes unitários
-*Testes end-to-end
+# Calculadora de Parcelas
+Uma calculadora que visa o resultado do lucro de um estabelecimento com sua máquina de cartão, baseado nas parcelas que o estabelecimento tem a receber, em até 90 dias.
 
 # API já existente no endereço abaixo. 
 https://frontend-challenge-7bu3nxh76a-uc.a.run.app
